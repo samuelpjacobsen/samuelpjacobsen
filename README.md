@@ -2,7 +2,7 @@
 
 Olá! Sou Samuel, um desenvolvedor Fullstack Jr no time de IA. Atualmente, estou em constante aprendizado e trabalho com as seguintes tecnologias:
 
-**Principais tecnologias**: Git, Solid, Flowise
+**Principais tecnologias**: 
 - **Frontend**: React, HTML, CSS, JavaScript
 - **Solid.js**
 - **Node.js**
