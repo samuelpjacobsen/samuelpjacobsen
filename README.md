@@ -1,16 +1,18 @@
-### Hi there 👋
+# Desenvolvedor Fullstack Jr
 
-<!--
-**samuelpjacobsen/samuelpjacobsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Samuel, um desenvolvedor Fullstack Jr no time de IA. Atualmente, estou em constante aprendizado e trabalho com as seguintes tecnologias:
 
-Here are some ideas to get you started:
+**Principais tecnologias**: Git, Solid, Flowise
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Solid.js**
+- **Node.js**
+- **React.js**
+- **Flowise**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Entre em contato
+
+Você pode me contatar através do meu email: samuel.jacobsen@startse.com
+
+## Redes Sociais
+
+- [LinkedIn](https://www.linkedin.com/in/samuel-jacobsen-7a397a203/)
