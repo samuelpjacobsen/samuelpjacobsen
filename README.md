@@ -1,12 +1,13 @@
 # Desenvolvedor Fullstack Jr
 
-Olá! Sou Samuel, um desenvolvedor Fullstack Jr no time de IA. Atualmente, estou em constante aprendizado e trabalho com as seguintes tecnologias:
+Olá! Sou Samuel, desenvolvedor Fullstack no time de IA. Atualmente, estou em constante aprendizado e trabalho com as seguintes tecnologias:
 
 **Principais tecnologias**: 
-- **Frontend**: React, HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript
 - **Solid.js**
 - **Node.js**
 - **React.js**
+- **Next.js**
 - **Flowise**
 
 ## Entre em contato
