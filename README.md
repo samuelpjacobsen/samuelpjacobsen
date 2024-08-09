@@ -3,7 +3,6 @@
 Olá! Sou Samuel, desenvolvedor Fullstack no time de IA. Atualmente, estou em constante aprendizado e trabalho com as seguintes tecnologias:
 
 **Principais tecnologias**: 
-- **Frontend**: HTML, CSS, JavaScript
 - **Solid.js**
 - **Node.js**
 - **React.js**
