@@ -1,4 +1,4 @@
-# Desenvolvedor Fullstack Jr
+# Desenvolvedor Fullstack
 
 Olá! Sou Samuel, desenvolvedor Fullstack no time de IA. Estou em constante aprendizado e trabalho com as seguintes tecnologias:
 
