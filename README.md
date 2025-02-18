@@ -1,6 +1,6 @@
-# Desenvolvedor Fullstack
+# Full Stack Software Engineer
 
-Olá! Sou Samuel, desenvolvedor Fullstack no time de IA. Estou em constante aprendizado e trabalho com as seguintes tecnologias:
+Olá! Sou Samuel, desenvolvedor no time de IA. Estou em constante aprendizado e trabalho com as seguintes tecnologias:
 
 **Principais tecnologias**: 
 - **Solid.js**
