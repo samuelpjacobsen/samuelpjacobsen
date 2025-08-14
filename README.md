@@ -3,6 +3,7 @@
 Olá! Sou Samuel, desenvolvedor no time de IA. Estou em constante aprendizado e trabalho com as seguintes tecnologias:
 
 **Principais tecnologias**: 
+- **Python**
 - **Solid.js**
 - **Node.js**
 - **React.js**
