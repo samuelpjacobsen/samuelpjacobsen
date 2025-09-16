@@ -1,19 +1,17 @@
-# Full Stack Software Engineer
+# 🚀 Artificial Intelligence & Automation Developer
 
-Olá! Sou Samuel, desenvolvedor no time de IA. Estou em constante aprendizado e trabalho com as seguintes tecnologias:
+Olá! Sou **Samuel Jacobsen**, desenvolvedor no time de IA da **StartSe**. Tenho experiência na criação de soluções que unem **Inteligência Artificial, Automação e Desenvolvimento Full Stack**, ajudando empresas a ganhar eficiência, reduzir custos e explorar novas oportunidades de negócio.
 
-**Principais tecnologias**: 
-- **Python**
-- **Solid.js**
-- **Node.js**
-- **React.js**
-- **Next.js**
-- **Flowise**
+## 🧠 Áreas de Atuação
 
-## Entre em contato
+* **IA & Machine Learning**: LLMs, RAG, agentes de IA, pytorch
+* **Automação**: RPA (UiPath), N8N, Flowise, Zapier, Make
+* **Desenvolvimento Full Stack**: Node.js, React.js, Next.js, Solid.js, FastAPI, Django
+* **Cloud & DevOps**: AWS, Docker, GitHub Actions, Serverless, GCP
+* **Bancos de Dados**: PostgreSQL, MongoDB, Supabase, MySQL
 
-Você pode me contatar através do meu email: samuel.jacobsen@startse.com
+## 📫 Entre em Contato
 
-## Redes Sociais
-
-- [LinkedIn](https://www.linkedin.com/in/samuel-jacobsen-7a397a203/)
+* ✉️ **E-mail**: [samuel.jacobsen@startse.com](mailto:samuel.jacobsen@startse.com)
+* 💼 **LinkedIn**: [linkedin.com/in/samuel-jacobsen](https://www.linkedin.com/in/samuel-jacobsen-7a397a203/)
+* 💻 **GitHub**: [github.com/samuelpjacobsen](https://github.com/samuelpjacobsen)
